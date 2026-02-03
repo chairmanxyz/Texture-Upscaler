@@ -1,0 +1,3 @@
+CheckTopz=False
+CheckSoundz=False
+CheckTempz=False
